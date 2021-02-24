@@ -1,0 +1,15 @@
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.exe
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.deps.json
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.runtimeconfig.json
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.runtimeconfig.dev.json
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.dll
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\bin\Debug\netcoreapp3.1\SymmetricAlgorithms.pdb
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.csprojAssemblyReference.cache
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.Form1.resources
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.csproj.GenerateResource.cache
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.AssemblyInfoInputs.cache
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.AssemblyInfo.cs
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.csproj.CoreCompileInputs.cache
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.dll
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.pdb
+D:\Projects\SymmetricAlgorithms\SymmetricAlgorithms\obj\Debug\netcoreapp3.1\SymmetricAlgorithms.genruntimeconfig.cache
